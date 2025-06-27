@@ -1,4 +1,4 @@
-# vivereaux# 🌿 Vivereaux — Landing Page
+🌿 Vivereaux — Landing Page
 
 Bienvenido al repositorio de **Vivereaux**, un vivero boutique familiar ubicado en Buenos Aires, especializado en plantas de interior y exterior, paisajismo ecológico y especies nativas y exóticas.  
 
