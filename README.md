@@ -23,7 +23,3 @@ Este proyecto es una landing page visualmente atractiva, responsiva y moderna, d
 ✅ Ícono flotante de WhatsApp  
 ✅ Diseño responsivo y accesible  
 
----
-
-## 📁 Estructura
-
